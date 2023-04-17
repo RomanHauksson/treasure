@@ -24,6 +24,10 @@
 1111
 ```
 
+## Directed graph showing the different states the board can be in
+
 ![](./graph.png)
+
+## Proof that I won the challenge
 
 ![](winner.png)
